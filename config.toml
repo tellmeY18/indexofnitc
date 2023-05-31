@@ -6,7 +6,7 @@ paginate = 5
 [params]
   contentTypeName = "posts"
   themeColor = "orange"
-  showMenuItems = 2
+  showMenuItems = 5 
   fullWidthTheme = true
   centerTheme = false
 
@@ -30,6 +30,10 @@ paginate = 5
         name = "About"
         url = "/about"
       [[languages.en.menu.main]]
-        identifier = "showcase"
-        name = "Showcase"
-        url = "/showcase"
+        identifier = "contribute"
+        name = "Contribute"
+        url = "/howto"
+      [[languages.en.menu.main]]
+        identifier = "people"
+        name = "People"
+        url = "/people"
