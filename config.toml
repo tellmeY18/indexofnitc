@@ -1,4 +1,4 @@
-baseurl = "indexofnitc.fosscell.org/"
+baseurl = "https://tellmey18.github.io/indexofnitc/ "
 languageCode = "en-us"
 theme = "terminal"
 paginate = 5
