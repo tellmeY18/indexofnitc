@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Terminal</title>
-    <link>https://tellmey18.github.io/indexofnitc/%20/</link>
+    <link>https://tellmey18.github.io/indexofnitc/</link>
     <description>Recent content on Terminal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 31 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://tellmey18.github.io/indexofnitc/%20/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 31 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://tellmey18.github.io/indexofnitc/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Campus Administration</title>
-      <link>https://tellmey18.github.io/indexofnitc/%20/posts/campus/</link>
+      <link>https://tellmey18.github.io/indexofnitc/posts/campus/</link>
       <pubDate>Wed, 31 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://tellmey18.github.io/indexofnitc/%20/posts/campus/</guid>
+      <guid>https://tellmey18.github.io/indexofnitc/posts/campus/</guid>
       <description>NITC Website</description>
       <content>&lt;p&gt;&lt;a href=&#34;https://nitc.ac.in/&#34;&gt;NITC Website&lt;/a&gt;&lt;/p&gt;
 </content>
@@ -20,32 +20,32 @@
     
     <item>
       <title>Companies</title>
-      <link>https://tellmey18.github.io/indexofnitc/%20/posts/companies/</link>
+      <link>https://tellmey18.github.io/indexofnitc/posts/companies/</link>
       <pubDate>Wed, 31 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://tellmey18.github.io/indexofnitc/%20/posts/companies/</guid>
+      <guid>https://tellmey18.github.io/indexofnitc/posts/companies/</guid>
       <description></description>
       <content></content>
     </item>
     
     <item>
       <title>How to Contribute</title>
-      <link>https://tellmey18.github.io/indexofnitc/%20/howto/</link>
+      <link>https://tellmey18.github.io/indexofnitc/howto/</link>
       <pubDate>Wed, 31 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://tellmey18.github.io/indexofnitc/%20/howto/</guid>
+      <guid>https://tellmey18.github.io/indexofnitc/howto/</guid>
       <description>How To Contribute The Projects aims to be a completely community driven initiative that will move according to the demand and usage of the community. The Source code of the project is available Here and is built using Hugo. The indexes are categorised and are added to markdown files with suitable names. They are located inside the &amp;lsquo;posts&amp;rsquo; directory which is inside the &amp;lsquo;content&amp;rsquo; directory. You can click on the markdown file which you are interested to contribute to and click on the pencil button that is marked in the figure below to edit the content.</description>
       <content>&lt;h1 id=&#34;how-to-contribute&#34;&gt;How To Contribute&lt;/h1&gt;
 &lt;p&gt;The Projects aims to be a completely community driven initiative that will move according to the demand and usage of the community. The Source code of the project is available &lt;a href=&#34;https://github.com/tellmeY18/indexofnitc&#34;&gt;Here&lt;/a&gt; and is built using &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt;. The indexes are categorised and are added to markdown files with suitable names. They are located inside the &amp;lsquo;posts&amp;rsquo; directory which is inside the &amp;lsquo;content&amp;rsquo; directory. 
   &lt;figure class=&#34;left&#34; &gt;
-    &lt;img src=&#34;https://tellmey18.github.io/indexofnitc/%20/img/contrib.jpeg&#34;   /&gt;
+    &lt;img src=&#34;https://tellmey18.github.io/indexofnitc/img/contrib.jpeg&#34;   /&gt;
     
   &lt;/figure&gt;
 
  &lt;br&gt;
 You can click on the markdown file which you are interested to contribute to and click on the pencil button that is marked in the figure below to edit the content. 
   &lt;figure class=&#34;left&#34; &gt;
-    &lt;img src=&#34;https://tellmey18.github.io/indexofnitc/%20/img/pencil.jpeg&#34;   /&gt;
+    &lt;img src=&#34;https://tellmey18.github.io/indexofnitc/img/pencil.jpeg&#34;   /&gt;
     
   &lt;/figure&gt;
 
@@ -56,10 +56,10 @@ Observe the data given and add the links using the same format. You can also ref
     
     <item>
       <title>How to Contribute</title>
-      <link>https://tellmey18.github.io/indexofnitc/%20/people/</link>
+      <link>https://tellmey18.github.io/indexofnitc/people/</link>
       <pubDate>Wed, 31 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://tellmey18.github.io/indexofnitc/%20/people/</guid>
+      <guid>https://tellmey18.github.io/indexofnitc/people/</guid>
       <description>This section is still under construction</description>
       <content>&lt;p&gt;This section is still under construction&lt;/p&gt;
 </content>
@@ -67,10 +67,10 @@ Observe the data given and add the links using the same format. You can also ref
     
     <item>
       <title>Index of NITC</title>
-      <link>https://tellmey18.github.io/indexofnitc/%20/about/</link>
+      <link>https://tellmey18.github.io/indexofnitc/about/</link>
       <pubDate>Wed, 31 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://tellmey18.github.io/indexofnitc/%20/about/</guid>
+      <guid>https://tellmey18.github.io/indexofnitc/about/</guid>
       <description>Hi there This Page was devoloped with KISS Philosophy in mind. The website aims to provide Information and it&amp;rsquo;s corresponding links without having to navigate through a pile of junk. The website is one among the many projects that are devoloped and maintained by students with the help of FOSSCELL NITC you can browse similar projects from projects.fosscell.org.
 The site plans to collect data with the help of student contribution. Click Here to know how to.</description>
       <content>&lt;h2 id=&#34;hi-there&#34;&gt;Hi there&lt;/h2&gt;
@@ -82,10 +82,10 @@ The site plans to collect data with the help of student contribution. Click Here
     
     <item>
       <title>Productivity</title>
-      <link>https://tellmey18.github.io/indexofnitc/%20/posts/productivity/</link>
+      <link>https://tellmey18.github.io/indexofnitc/posts/productivity/</link>
       <pubDate>Wed, 31 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://tellmey18.github.io/indexofnitc/%20/posts/productivity/</guid>
+      <guid>https://tellmey18.github.io/indexofnitc/posts/productivity/</guid>
       <description>Reactive resume : Reactive Resume is a free and open source resume builder that&amp;rsquo;s built to make the mundane tasks of creating, updating and sharing your resume easy. Sejda : Easy, pleasant and productive PDF editor. Kanboard : Kanboard is a free and open source Kanban project management software. Rise up pad : This is an etherpad service hosted by Riseup. highly customizable open source online editor providing collaborative editing in really real-time.</description>
       <content>&lt;p&gt;&lt;a href=&#34;https://rxresu.me/&#34;&gt;Reactive resume&lt;/a&gt; : Reactive Resume is a free and open source resume builder that&amp;rsquo;s built to make the mundane tasks of creating, updating and sharing your resume easy. &lt;br&gt;
 &lt;a href=&#34;https://www.sejda.com/&#34;&gt;Sejda&lt;/a&gt; : Easy, pleasant and productive PDF editor. &lt;br&gt;
@@ -97,10 +97,10 @@ The site plans to collect data with the help of student contribution. Click Here
     
     <item>
       <title>Productivity</title>
-      <link>https://tellmey18.github.io/indexofnitc/%20/posts/resources/</link>
+      <link>https://tellmey18.github.io/indexofnitc/posts/resources/</link>
       <pubDate>Wed, 31 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://tellmey18.github.io/indexofnitc/%20/posts/resources/</guid>
+      <guid>https://tellmey18.github.io/indexofnitc/posts/resources/</guid>
       <description>Sci Hub: The goal of Sci-Hub is to provide free and unrestricted access to all scientific knowledge.</description>
       <content>&lt;p&gt;&lt;a href=&#34;https://sci-hub.st&#34;&gt;Sci Hub&lt;/a&gt;: The goal of Sci-Hub is to provide free and unrestricted access to all scientific knowledge.&lt;/p&gt;
 </content>
