@@ -1,5 +1,5 @@
 +++
-title = "Productivity"
+title = "Resources"
 date = "2023-05-31"
 author = "Your friendly neighborhood Spider-Man"
 cover = "hello.jpg"
