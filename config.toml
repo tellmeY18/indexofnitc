@@ -1,4 +1,4 @@
-baseurl = "https://tellmey18.github.io/indexofnitc/ "
+baseurl = "https://tellmey18.github.io/indexofnitc/"
 languageCode = "en-us"
 theme = "terminal"
 paginate = 5
@@ -6,7 +6,7 @@ paginate = 5
 [params]
   contentTypeName = "posts"
   themeColor = "orange"
-  showMenuItems = 5 
+  showMenuItems = 5
   fullWidthTheme = true
   centerTheme = false
 
@@ -22,18 +22,18 @@ paginate = 5
 
     [languages.en.params.logo]
       logoText = "FOSSCELL NITC"
-      logoHomeLink = "/"
+      logoHomeLink = "indexofnitc"
 
     [languages.en.menu]
       [[languages.en.menu.main]]
         identifier = "about"
         name = "About"
-        url = "/about"
+        url = "indexofnitc/about"
       [[languages.en.menu.main]]
         identifier = "contribute"
         name = "Contribute"
-        url = "/howto"
+        url = "indexofnitc/howto"
       [[languages.en.menu.main]]
         identifier = "people"
         name = "People"
-        url = "/people"
+        url = "indexofnitc/people"
