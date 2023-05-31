@@ -28,12 +28,12 @@ paginate = 5
       [[languages.en.menu.main]]
         identifier = "about"
         name = "About"
-        url = "indexofnitc/about"
+        url = "/about"
       [[languages.en.menu.main]]
         identifier = "contribute"
         name = "Contribute"
-        url = "indexofnitc/howto"
+        url = "/howto"
       [[languages.en.menu.main]]
         identifier = "people"
         name = "People"
-        url = "indexofnitc/people"
+        url = "/people"
