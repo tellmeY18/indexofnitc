@@ -7,4 +7,3 @@ description = "Websites and portals used by NITC Admin"
 +++
 
 [NITC Website](https://nitc.ac.in/)
-[Sci Hub](https://sci-hub.st)
