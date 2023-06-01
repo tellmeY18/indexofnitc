@@ -34,30 +34,33 @@
       <pubDate>Wed, 31 May 2023 00:00:00 +0000</pubDate>
       
       <guid>https://tellmey18.github.io/indexofnitc/howto/</guid>
-      <description>How To Contribute The Projects aims to be a completely community driven initiative that will move according to the demand and usage of the community. The Source code of the project is available Here and is built using Hugo. The indexes are categorised and are added to markdown files with suitable names. They are located inside the &amp;lsquo;posts&amp;rsquo; directory which is inside the &amp;lsquo;content&amp;rsquo; directory. You can click on the markdown file which you are interested to contribute to and click on the pencil button that is marked in the figure below to edit the content.</description>
+      <description>How To Contribute The Projects aims to be a completely community driven initiative that will move according to the demand and usage of the community. The Source code of the project is available Here and is built using Hugo. The indexes are categorised and are added to markdown files with suitable names. They are located inside the &amp;lsquo;posts&amp;rsquo; directory which is inside the &amp;lsquo;content&amp;rsquo; directory.
+You can click on the markdown file which you are interested to contribute to and click on the pencil button that is marked in the figure below to edit the content.</description>
       <content>&lt;h1 id=&#34;how-to-contribute&#34;&gt;How To Contribute&lt;/h1&gt;
-&lt;p&gt;The Projects aims to be a completely community driven initiative that will move according to the demand and usage of the community. The Source code of the project is available &lt;a href=&#34;https://github.com/tellmeY18/indexofnitc&#34;&gt;Here&lt;/a&gt; and is built using &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt;. The indexes are categorised and are added to markdown files with suitable names. They are located inside the &amp;lsquo;posts&amp;rsquo; directory which is inside the &amp;lsquo;content&amp;rsquo; directory. 
+&lt;p&gt;The Projects aims to be a completely community driven initiative that will move according to the demand and usage of the community. The Source code of the project is available &lt;a href=&#34;https://github.com/tellmeY18/indexofnitc&#34;&gt;Here&lt;/a&gt; and is built using &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt;. The indexes are categorised and are added to markdown files with suitable names. They are located inside the &amp;lsquo;posts&amp;rsquo; directory which is inside the &amp;lsquo;content&amp;rsquo; directory.&lt;/p&gt;
+
   &lt;figure class=&#34;left&#34; &gt;
-    &lt;img src=&#34;https://tellmey18.github.io/indexofnitc/img/contrib.jpeg&#34;   /&gt;
+    &lt;img src=&#34;../img/contrib.jpeg&#34;   /&gt;
     
   &lt;/figure&gt;
 
- &lt;br&gt;
-You can click on the markdown file which you are interested to contribute to and click on the pencil button that is marked in the figure below to edit the content. 
+
+&lt;p&gt;You can click on the markdown file which you are interested to contribute to and click on the pencil button that is marked in the figure below to edit the content.&lt;/p&gt;
+
   &lt;figure class=&#34;left&#34; &gt;
-    &lt;img src=&#34;https://tellmey18.github.io/indexofnitc/img/pencil.jpeg&#34;   /&gt;
+    &lt;img src=&#34;../img/pencil.jpeg&#34;   /&gt;
     
   &lt;/figure&gt;
 
- &lt;br&gt;
-Observe the data given and add the links using the same format. You can also refer to the &lt;a href=&#34;https://www.markdownguide.org/cheat-sheet/&#34;&gt;Markdown Cheatsheet&lt;/a&gt; to know more on how to manage markdown files. Press on the commit button to submit your entries.
+
+&lt;p&gt;Observe the data given and add the links using the same format. You can also refer to the &lt;a href=&#34;https://www.markdownguide.org/cheat-sheet/&#34;&gt;Markdown Cheatsheet&lt;/a&gt; to know more on how to manage markdown files. Press on the commit button to submit your entries.&lt;/p&gt;
 
   &lt;figure class=&#34;left&#34; &gt;
-    &lt;img src=&#34;https://tellmey18.github.io/indexofnitc/img/commit.jpeg&#34;   /&gt;
+    &lt;img src=&#34;../img/commit.jpeg&#34;   /&gt;
     
   &lt;/figure&gt;
 
-&lt;/p&gt;
+
 </content>
     </item>
     
