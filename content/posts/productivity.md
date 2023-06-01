@@ -11,3 +11,4 @@ description = "Boink"
 [Kanboard](https://kanboard.org/) : Kanboard is a free and open source Kanban project management software. \
 [Rise up pad](https://pad.riseup.net/) : This is an [etherpad](https://etherpad.org/) service hosted by Riseup. highly customizable open source online editor providing collaborative editing in really real-time. \
 [Taiga](https://www.taiga.io/) : The free and open-source project management tool. For cross-functional agile teams to work effectively \
+[PDF Candy](https://pdfcandy.com/) : A all-in-one tool for editing, converting, spliting & merging PDF files \
