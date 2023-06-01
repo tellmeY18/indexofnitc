@@ -3,7 +3,7 @@ title = "Resources"
 date = "2023-05-31"
 author = "Your friendly neighborhood Spider-Man"
 cover = "img/hello.jpg"
-description = "Boink"
+description = "List of Websites that provide research papers and science journals"
 +++
 
 [Sci Hub](https://sci-hub.st): The goal of Sci-Hub is to provide free and unrestricted access to all scientific knowledge. \
