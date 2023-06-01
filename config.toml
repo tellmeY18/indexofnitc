@@ -21,19 +21,27 @@ paginate = 5
     readOtherPosts = "Read other posts"
 
     [languages.en.params.logo]
-      logoText = "FOSSCELL NITC"
+      logoText = "INDEX OF NITC"
       logoHomeLink = ""
 
     [languages.en.menu]
       [[languages.en.menu.main]]
-        identifier = "about"
-        name = "About"
-        url = "/about"
+        identifier = "index"
+        name = "Index"
+        url = "/"
+        weight = 1
       [[languages.en.menu.main]]
         identifier = "contribute"
         name = "Contribute"
         url = "/howto"
+        weight = 2
+      [[languages.en.menu.main]]
+        identifier = "about"
+        name = "About"
+        url = "/about"
+        weight = 3
       [[languages.en.menu.main]]
         identifier = "people"
         name = "People"
         url = "/people"
+        weight = 4
