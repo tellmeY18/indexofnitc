@@ -15,8 +15,12 @@ description = "Various student run groups in technical and cultural domains"
 [CP Hub](https://cphub-nitc.github.io/chapter/): A club for competetive coders. [Instagram](https://www.instagram.com/cphub.nitc/?hl=en) 
 
 ## Department Associations
+[CSEA](https://assoc.cse.nitc.ac.in/): Computer Science Engineering Associaton \
+[ECEA](http://www.ece.nitc.ac.in/index.php?option=com_content&view=article&id=82&Itemid=41): Electronics and Communication Engineering Association. \
+[MEA](https://www.instagram.com/mea_nitc/?hl=en): Mechanical Engineering Association
 
 ## Cultural Clubs
+[AV CLUB](https://www.instagram.com/crumbledpaperr/?hl=en): Audio Visual Club. \
 [CM](https://clubmathematica.com/): Club Mathematica. [Instagram](https://www.instagram.com/clubmathematica/?hl=en)\
 [DnD](https://www.instagram.com/dnd_nitc/?hl=en) : A forum for dance and dramatics\
 [LnD](https://www.lndnitc.org/): Literary and Debating Club. [Instagram](https://www.instagram.com/donttellthewarden/?hl=en)\
