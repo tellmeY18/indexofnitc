@@ -26,7 +26,7 @@ description = "Various student run groups in technical and cultural domains"
 [TAC](https://www.instagram.com/adventureclubnitc/?hl=en) : The Adventure Club of NITC
 
 ## Home Teams (Cultural)
-[Mime](https://www.instagram.com/mime.ragam.nitc/): Mime HomeTeam. 
+[Mime](https://www.instagram.com/mime.ragam.nitc/): Mime HomeTeam. \
 [Non-Thematic Dance Team](https://www.instagram.com/_therawproject_/): Non-thematic Dance Team
 
 
