@@ -7,10 +7,10 @@ description = "Various student run groups in technical and cultural domains"
 
 +++
 
-## [Tathva](https://www.tathva.org/) : South India's largest techno-management fest [Instagram](https://www.instagram.com/tathva_nitcalicut/?hl=en) \
-## [Adizya]([https://adizya.in/](https://www.instagram.com/adizya/?hl=en): Architecure Fest of NITC \
-## [Tarang](https://www.tarangnitc.org/) : Management Fest of NITC [Instagram](https://www.instagram.com/tarang_nitc_/?hl=en)\
-## [RAGAM]: South India's largest cultural fest. [Instagram](https://www.instagram.com/ragam_nitc/)
+## [Tathva](https://www.tathva.org/) : South India's largest techno-management fest [Instagram](https://www.instagram.com/tathva_nitcalicut/?hl=en) 
+## [Adizya](https://www.instagram.com/adizya/?hl=en): Architecure Fest of NITC 
+## [Tarang](https://www.tarangnitc.org/) : Management Fest of NITC [Instagram](https://www.instagram.com/tarang_nitc_/?hl=en)
+## [RAGAM](): South India's largest cultural fest. [Instagram](https://www.instagram.com/ragam_nitc/)
 
 ## Technical Clubs
 [RIG](http://www.rignitc.com/): Robotic Interest Group of NITC. [Instagram](https://www.instagram.com/rig_nitc/?hl=en)\
