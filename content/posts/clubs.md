@@ -29,6 +29,14 @@ description = "Various student run groups in technical and cultural domains"
 [ISTE](https://www.instagram.com/ica_thecolossalcanvas/?hl=en): Indian School of Technical Education\
 [TAC](https://www.instagram.com/adventureclubnitc/?hl=en) : The Adventure Club of NITC
 
+## [Magcom](https://www.instagram.com/nitc_magazine/): Magazine Committee of NITC 
+[Audacia 2021-22](https://shorturl.at/gtxP6) \
+[Safar 2020-21](http://rb.gy/fimau9) \
+[Unbound 2019-20](https://issuu.com/nitc1/docs/unbound)\
+[Vemodalen 2018-19](https://drive.google.com/open?id=1Y2HowIUsaW_y5uL2Nl6JJnOwuVsfZav_) \
+[Intelude 2017-18](https://issuu.com/nitc1/docs/unbound) \
+[Chapedia 2016-17]() \
+[Vox Populi 2015-16](https://issuu.com/nitcalicut/docs/vox_populi_nitc_2016)
 ## Home Teams (Cultural)
 [Mime](https://www.instagram.com/mime.ragam.nitc/): Mime HomeTeam. \
 [Non-Thematic Dance Team](https://www.instagram.com/_therawproject_/): Non-thematic Dance Team
