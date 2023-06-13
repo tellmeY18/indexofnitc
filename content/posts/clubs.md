@@ -6,7 +6,7 @@ cover = "img/hello.jpg"
 description = "Various student run groups in technical and cultural domains"
 
 +++
-
+## [SAC](https://www.instagram.com/sac_nitc/?hl=en): Student's Affair Council of NITC
 ## [Tathva](https://www.tathva.org/) : South India's largest techno-management fest [Instagram](https://www.instagram.com/tathva_nitcalicut/?hl=en) 
 ## [Adizya](https://www.instagram.com/adizya/?hl=en): Architecure Fest of NITC 
 ## [Tarang](https://www.tarangnitc.org/) : Management Fest of NITC [Instagram](https://www.instagram.com/tarang_nitc_/?hl=en)
@@ -46,4 +46,6 @@ description = "Various student run groups in technical and cultural domains"
 [Mime](https://www.instagram.com/mime.ragam.nitc/): Mime HomeTeam. \
 [Non-Thematic Dance Team](https://www.instagram.com/_therawproject_/): Non-thematic Dance Team
 
-
+## Other Works
+[Crow Talks](https://nitcrowtalks.wordpress.com/): A newspage for the average NITCian
+[NSS](https://www.instagram.com/nss_nitcalicut/?hl=en): NSS NITC
