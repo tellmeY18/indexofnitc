@@ -47,5 +47,5 @@ description = "Various student run groups in technical and cultural domains"
 [Non-Thematic Dance Team](https://www.instagram.com/_therawproject_/): Non-thematic Dance Team
 
 ## Other Works
-[Crow Talks](https://nitcrowtalks.wordpress.com/): A newspage for the average NITCian
+[Crow Talks](https://nitcrowtalks.wordpress.com/): A newspage for the average NITCian \
 [NSS](https://www.instagram.com/nss_nitcalicut/?hl=en): NSS NITC
