@@ -42,8 +42,13 @@ description = "Various student run groups in technical and cultural domains"
 [Intelude 2017-18](https://issuu.com/nitc1/docs/unbound) \
 [Chapedia 2016-17]() \
 [Vox Populi 2015-16](https://issuu.com/nitcalicut/docs/vox_populi_nitc_2016)
+
 ## Home Teams (Cultural)
 [Mime](https://www.instagram.com/mime.ragam.nitc/): Mime HomeTeam. \
+[StreetPlay (Malayalam)](https://instagram.com/nitc_malayalamstreetplay?igshid=MzRlODBiNWFlZA==): Malayalam Streetplay Team \
+[Movie Spoof](https://instagram.com/movie_spoof_nitc?igshid=MzRlODBiNWFlZA==): NITC SPOOF TEAM \
+[English DRAMA](https://instagram.com/theact.nitc?igshid=MzRlODBiNWFlZA==): Drama Home Team \
+[Music Club](https://www.instagram.com/musicclubnitc/?hl=en): Music Club \
 [Non-Thematic Dance Team](https://www.instagram.com/_therawproject_/): Non-thematic Dance Team
 
 ## Other Works
