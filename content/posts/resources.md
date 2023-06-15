@@ -11,4 +11,5 @@ description = "List of Websites that provide research papers and science journal
 [Bypass paywalls](https://github.com/iamadamdev/bypass-paywalls-chrome) : Get access to articles from paid platforms and magazines in medium and Adweek, in addition to more than 100 other paid sites for free with this open source tool. \
 [Notesnook](https://notesnook.com/) : Open source, end-to-end encrypted notes taking app, focused on privacy. \
 [Tosdr](https://tosdr.org/) : “I have read and agree to the Terms” is the biggest lie on the web. This website aims to fix that. Categorizes various website TOS based on grades.They also have a browser extension. \
-[O’Reilly books](https://github.com/lorenzodifuccia/safaribooks) : Download and generate EPUB books from O'Reilly Learning (aka Safari Books Online) library.
+[O’Reilly books](https://github.com/lorenzodifuccia/safaribooks) : Download and generate EPUB books from O'Reilly Learning (aka Safari Books Online) library. \
+[Google books downloader](https://github.com/vaibhavk97/GoBooDo) : Google books downloader with proxy support. 
